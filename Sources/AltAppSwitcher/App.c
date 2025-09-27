@@ -1,6 +1,5 @@
 #define COBJMACROS
 #define NTDDI_VERSION NTDDI_WIN10
-#include <appmodel.h>
 #include <dwmapi.h>
 #include <gdiplus.h>
 #include <processthreadsapi.h>
@@ -31,6 +30,8 @@
 #include <uiautomationclient.h>
 #include <winnt.h>
 #include <winuser.h>
+
+#include <appmodel.h>
 
 #undef COBJMACROS
 #include "Config/Config.h"
