@@ -1,3 +1,7 @@
+# This fork makes the switch/alt-tab interface a vertical list
+<img width="866" height="646" alt="image" src="https://github.com/user-attachments/assets/0815b1d2-a302-41a2-b6f7-cc9512aac86f" />
+(Sorry for poor screenshot quality)
+
 ## AltAppSwitcher: alternative application switcher for Windows
 
 Main features:
